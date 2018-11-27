@@ -3,7 +3,7 @@ node_js: node
 deploy:
   provider: heroku
   api_key:
-    secure: BZ6/owtltioNjRL3xbDqZAQFeXd6YljNwdGZj1Rq36XepZanS9jLmHFTvD7Ml6VUY+5LItQiGeeSoiuHqu0Cb6MmYmBrF4BBihZGRpLSQQAaKCgQROp6TYXCSzux/OnuJnK+5AFudWmjurlPAq/GmMQZjwVEJpJJBHdhAvy9RV3QA0f7P5TtJAskR943s/26uKUFDrGTKUrs4cLTXqRvxZ5kYmfiBfQgAqopfh0FoKICaMkl5SJGAbRbmfQcnMzcdmhBjhyRJWx1qe0cgd8+qwWHRKFr8uyVC8D9RE0Tf6vfKU9TwHd9vxzzzuisMODK00K6ZbsyzVnoPly3WEGioQTAotHhHyPZP9I0ZjBd1GApO/AP540HdOUoFHsUKHEtU3ilbC6UXYsRHdi72aiA8kThge8WCvPtP7VGmPl9zFJvvU+XTJJ2QFDhI4LkBrXR3mCZZpERpJd0oPuUdmlRxLljK8YRZFj29YGvCrk0ci+LJh54KUctoLK0BTjnkqBc78xFIVIvWXW3EsIahymzEWC5kqXuTD5NVb+jJ7ofXWSC35/cukXVUWirtndcfd+OOayYOLuRLZ67ufrfggG5d3+Yn9+/acaoc9Dgb4TMZ3IHiT2bk2UtEwEBlnssEOI/pboDTD10eaGSgcgCWt4rZtiIkOas5ECwN9Sw6gVwXbM=
+    secure: 3d1dcf89-2035-4fe9-b681-9ebad93b93bf
   app: aqueous-lowlands-49674
   on:
     repo: anthonypagano/node-shopping-list-integration-tests
